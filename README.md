@@ -9,7 +9,7 @@ O projeto possui um layout moderno, responsivo e feedback visual de acordo com o
 ## 🌐 Visualização Online
 Clique no link abaixo para visualizar o projeto:
 
-
+ https://amelcasales.github.io/Calculadora_IMC/
 
 ## 📌 Funcionalidades
 
